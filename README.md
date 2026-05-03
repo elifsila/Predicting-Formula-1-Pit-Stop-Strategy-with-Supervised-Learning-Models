@@ -1,7 +1,11 @@
 # F1 Strategy Dataset: Seven Kaggle Research-Question Notebooks
 
-This ZIP contains seven independent Jupyter notebooks for the Kaggle dataset:
-`aadigupta1601/f1-strategy-dataset-pit-stop-prediction`.
+Here, there are seven independent Jupyter notebooks for the Kaggle dataset: `aadigupta1601/f1-strategy-dataset-pit-stop-prediction`.
+
+About Dataset:
+
+This project uses the F1 Strategy Dataset (Pit Stop Prediction) available on Kaggle.
+You can access the dataset here: https://www.kaggle.com/datasets/aadigupta1601/f1-strategy-dataset-pit-stop-prediction
 
 Each notebook answers one research question and saves:
 
