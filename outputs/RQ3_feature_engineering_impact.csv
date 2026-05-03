@@ -1,0 +1,5 @@
+Accuracy,Precision,Recall,F1-score,AUC,Feature Set
+0.7452,0.0,0.0,0.0,0.6242,Basic (Lap + Position)
+0.797,0.68,0.3839,0.4907,0.8448,+ Tyre Features
+0.8214,0.7059,0.5124,0.5938,0.8831,+ Degradation Features
+0.8653,0.7627,0.6843,0.7214,0.9354,Full Feature Set

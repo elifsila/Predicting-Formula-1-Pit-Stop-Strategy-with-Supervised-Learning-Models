@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-score,AUC
+Random Forest,0.9631,0.9293,0.9257,0.9275,0.9913
+XGBoost,0.8653,0.7627,0.6843,0.7214,0.9354
+Logistic Regression,0.7276,0.4779,0.7435,0.5818,0.8039
+Linear SVM,0.7839,0.64,0.3469,0.4499,0.8019

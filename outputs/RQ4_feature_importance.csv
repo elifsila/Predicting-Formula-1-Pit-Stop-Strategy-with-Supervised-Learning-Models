@@ -1,0 +1,11 @@
+Rank,Feature,Importance,Std,Domain Interpretation
+1,TyreLife,0.2895,0.004,Older tyres usually increase pit-stop likelihood.
+2,Stint,0.1922,0.0046,Current stint number reflects strategy phase.
+3,Year,0.1285,0.006,Feature contributes predictive information to pit-stop timing.
+4,RaceProgress,0.1074,0.0032,Pit windows depend on the stage of the race.
+5,Normalized_TyreLife,0.0686,0.0033,Relative tyre age captures degradation pressure.
+6,Race,0.0418,0.0026,Track-specific characteristics influence strategy.
+7,Compound,0.0217,0.0016,Tyre compound controls expected stint length.
+8,LapNumber,0.0133,0.001,Lap number encodes race timing and pit-window phase.
+9,Driver,0.0107,0.0013,Feature contributes predictive information to pit-stop timing.
+10,LapTime_Delta,0.0099,0.002,Lap-time changes indicate tyre wear or traffic effects.
