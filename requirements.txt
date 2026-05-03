@@ -1,0 +1,10 @@
+## 🔧 Required Libraries
+
+The project uses the following Python libraries:
+
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- xgboost
